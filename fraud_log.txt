@@ -1,0 +1,7 @@
+[Tue Sep 09 22:27:35 2025] User: user1 | FRAUD: Suspicious IP | IP: 192.168.1.5,10.0.0.2
+[Tue Sep 09 22:28:43 2025] User: user1 | FRAUD: Suspicious IP | IP: user1
+[Tue Sep 09 22:55:37 2025] User: user1 | FRAUD: Suspicious IP | IP: user1
+[Tue Sep 09 22:57:16 2025] User: user2 | FRAUD: Suspicious IP | IP: user2
+[Wed Sep 10 19:47:18 2025] User: user1 | FRAUD: Suspicious IP | IP: user1
+[Wed Sep 10 19:49:52 2025] User: user1 | FRAUD: Invalid Transaction ID | IP: 192.168.1.5 | TxnID: txn101
+[Wed Sep 10 20:34:20 2025] User: user1 | FRAUD: Suspicious IP | IP: user1 | TxnID: Country: , Region: , City: 

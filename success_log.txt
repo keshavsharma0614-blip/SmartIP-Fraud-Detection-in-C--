@@ -1,0 +1,7 @@
+[Wed Sep 10 19:51:41 2025] User: user1 | SUCCESS | IP: 192.168.1.5 | TxnID: txn101
+[Wed Sep 10 19:59:37 2025] User: user1 | SUCCESS | IP: 192.168.1.5 | TxnID: txn101
+[Wed Sep 10 20:09:43 2025] User: user1 | SUCCESS | IP: 192.168.1.5 | TxnID: txn101
+[Wed Sep 10 20:23:10 2025] User: user1 | SUCCESS | IP: 192.168.1.5 | TxnID: txn101 | Geolocation: Country: , Region: , City: 
+[Wed Sep 10 20:29:11 2025] User: user1 | SUCCESS | IP: 192.168.1.5 | TxnID: txn101 | Geolocation: Country: , Region: , City: 
+[Wed Sep 10 20:35:03 2025] User: user1 | SUCCESS | IP: 192.168.1.5 | TxnID: txn101 | Geolocation: Country: , Region: , City: 
+[Wed Sep 10 20:48:05 2025] User: user1 | SUCCESS | IP: 192.168.1.5 | TxnID: txn101 | Geolocation: Country: India, Region: Uttar pradesh, City: Sharanpur
